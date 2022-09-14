@@ -1,5 +1,4 @@
 import React from 'react';
-import { useState } from 'react';
 import './Editor.css';
 
 export default function Editor({ title, setTitle, subtitle, setSubtitle, setFont, setAlign, text, setText }) {
